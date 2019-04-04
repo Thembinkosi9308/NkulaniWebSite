@@ -12,7 +12,6 @@ html,body{
 .navbar-brand{
 	min-height: 55px;
 	padding: 0 15px 5px;
-	padding-top: 23%;
 }
 
 .navbar-default .navbar-nav li a{
@@ -65,6 +64,8 @@ footer{
 	background-color: #23415C;
 	padding: 5% 5% 10% 5%;
 	color: #FFF; 
+	left: 0;
+	right: 0;
 }
 
 .fa{
@@ -76,5 +77,28 @@ footer{
 .fa:hover{
 	color: #050505;
 	text-decoration: none;
+}
 
+@media(max-width: 768px){
+	.landing-text h1{
+		font-size: 300%;
+		padding: 10px;
+	}
+	.fa{
+		font-size:20px;
+		padding: 10px;
+	}
+}
+
+.address{
+	 vertical-align: middle;
+  	 margin-bottom: 0.75em;
+}
+
+.addr{
+	  font-size: 44px;
+
+}
+.phone{
+	  font-size: 24px;
 }

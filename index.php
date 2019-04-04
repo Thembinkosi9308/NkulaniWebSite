@@ -30,15 +30,14 @@
 			<div class="collapse navbar-collapse" id ="navbar-collapse-main">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="active"><a href="#">Home</a></li>
-					<li><a href="#">About</a></li>
-					<li><a href="#">Pricing</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#pricing">Pricing</a></li>
+					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</div>
 		</div><!--End div:navbar-header--> 
 	
 	</nav><!--End NAV-->
-<hr style="padding-top: 4%; background-color:red;">
 	<div id="home" class="fixed">
 		<div class="landing-text">
 			<h1>Ice Empire for Africa</h1>
@@ -46,6 +45,7 @@
 		</div>
 	</div>
 
+<section id="about">
 	<div class="padding">
 		<div class="container">
 			<div class="row">
@@ -54,13 +54,12 @@
 					<img src="./img/op.png"/>	
 				</div>
 				<div class="col-sm-6 text-center">
-					<h2>All About Ice Empire</h2>
+					<h2>About Ice Empire</h2>
 					<p class="lead">Up am intention on dependent questions oh elsewhere september. No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Hope they dear who its bred. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Truth short folly court why she their balls. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who. </p>
 				</div>
 			</div>
 		</div>
 	<div>
-
 
 	<div class="padding">
 		<div class="container">
@@ -82,7 +81,7 @@
 			</div>
 		</div>
 	</div>
-
+</section>
 
 	<div id="fixed"width="100%" height="60%" >
 		<br>
@@ -106,7 +105,7 @@
 		<br>
 	</div>
 
-	<div class="padding">	
+	<div class="padding" id="pricing">	
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
@@ -125,17 +124,34 @@
 		</div>
 	</div>
 
-<footer class="container-fluid text-center">
+<footer class="container-fluid text-center" id="contact" height="1">
 	<div class="row">
 		<div class="col-sm-4">
-			<h3>Contact Us</h3>
+			<h2>Contact Us</h2>
 			<br>
-			<h4>Address and contact info here</h4>
+			<p align="left">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d894.5907578024674!2d27.877376929162896!3d-26.24987869616183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95a6df56aa5cb1%3A0xdff19a5ffe0b4353!2s664+Mlangeni+St%2C+Jabavu%2C+Soweto%2C+1809!5e0!3m2!1saf!2sza!4v1554363466564!5m2!1saf!2sza" width="400" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</p>
+
 			<br>
+			
+	<!-- 	<p><h4><strong>Address:</strong></h4>
+			664A Mlangeni Street<br>
+			White City Jabavu<br>
+			P.O. Kwa-Xuma<br>
+			1868
+		</p>
+			<br>
+			<p>
+				<strong>Phone:</strong>
+				<br>
+				(+27) 78 921 9364
+			</p>  -->
+		
 		</div>
 
-		<div class="col-sm-4">
-			<h3>Connect</h3>
+		<div class="col-sm-8">
+			<h2>Connect</h2>
 			<a href="#" class="fa fa-facebook"></a>
 			<a href="#" class="fa fa-twitter"></a>
 			<a href="#" class="fa fa-google"></a>
@@ -144,10 +160,10 @@
 
 		</div>
 
-		<div class="col-sm-4">
+<!-- 		<div class="col-sm-4">
 		
 		</div>
-
+ -->
 	</div>
 </footer>
 	
