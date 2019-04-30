@@ -28,7 +28,7 @@
 				</a>
 			</div>
 			<div class="collapse navbar-collapse" id ="navbar-collapse-main">
-				<ul class="nav navbar-nav navbar-righ mr-auto">
+				<ul class="nav navbar-nav navbar-right mr-auto">
 					<li class="active"><a href="#">Home</a></li>
 					<li><a href="#about">About</a></li>
 					<li><a href="#pricing">Pricing</a></li>
@@ -55,7 +55,7 @@
 				</div>
 				<div class="col-sm-6 text-center">
 					<h2>About Ice Empire</h2>
-					<p class="lead">Up am intention on dependent questions oh elsewhere september. No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Hope they dear who its bred. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Truth short folly court why she their balls. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who. </p>
+					<p class="lead">Our purpose is to add value to our client's business by helping you save money and maximise your profit/income through our affordable price <br/> </p>
 				</div>
 			</div>
 		</div>
